@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="1101a5c5487f20fa6858dc1ed6b95dd82ea30c189a18a249" />
+          <option name="urlString" value="http://127.0.0.1:8888/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="1101a5c5487f20fa6858dc1ed6b95dd82ea30c189a18a249" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="21351ac501bfb9bcc9c5565fd781d392235e29b1ce0798bb" />
+          <option name="urlString" value="http://59.78.194.48:8888/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="21351ac501bfb9bcc9c5565fd781d392235e29b1ce0798bb" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://59.78.194.84:8888" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../annotated-transformer/.idea/annotated-transformer.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="D:\2anaconda\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../datasets/analysis_data/.idea/analysis_data.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="D:\2anaconda\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../2022pythonProjs/pytorch_playground/.idea/pytorch_playground.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="21351ac501bfb9bcc9c5565fd781d392235e29b1ce0798bb" />
+              <option name="urlString" value="http://59.78.194.48:8888/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="21351ac501bfb9bcc9c5565fd781d392235e29b1ce0798bb" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

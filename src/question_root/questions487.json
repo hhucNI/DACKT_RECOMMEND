@@ -1,0 +1,12 @@
+{
+  "25": "Given three integers (a, b, c), check if they are evenly spaced. Numbers are considered evenly spaced if the difference between the smallest and middle number equals the difference between the middle and largest number.",
+  "21": "Create a function that computes the sum of three integers (a, b, c), but if any of the numbers is 13, it gets replaced by 0, and then calculate the sum.",
+  "102": "Write a function that manipulates a given string (str). If the string's length is 2, remove the first and last characters if they are the same. If the length is less than 2, return the original string. If the first and last characters differ, return the original string.",
+  "24": "Implement a function that takes two integers (a, b) as parameters and returns the integer closest to 21 without exceeding it. If both integers exceed 21, return 0.",
+  "100": "Develop a function that rounds three given integers (a, b, c) to the nearest multiple of 10 and then sums them up.",
+  "28": "Create a function that processes a given string (str). If the string is empty, return '@@'. If the string's length is 1, append '@' to it. For strings longer than 1, return the first two characters of the string.",
+  "101": "Write a function to determine the remaining number needed to make chocolate bars of a specified goal using small and big bars. Given the goal and counts of small (1 unit) and big (5 units) bars, return the remaining number required. If the goal is already met, return 0. If it cannot be met, return -1.",
+  "22": "Develop a function to calculate the sum of three integers (a, b, c), but if any number is in the 'teen' range (13-19, excluding 15 and 16), replace it with 0 before calculating the sum.",
+  "17": "Create a function that assigns a prize based on three integers (a, b, c). If all three integers are the same, return 10 (unless they are all 2, in which case return 5). If all three integers are different, return 1. For any other combination, return 0.",
+  "20": "Write a function to calculate the sum of three integers (a, b, c), but if any two integers are the same, replace that value with 0 before calculating the sum."
+}

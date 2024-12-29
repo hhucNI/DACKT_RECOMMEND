@@ -1,0 +1,12 @@
+{
+  "56": "Develop a function 'centeredAverage' that calculates the average of an array 'nums', excluding the largest and smallest values.",
+  "64": "Create a function 'fizzBuzz' that returns an array of strings representing the numbers from 'start' to 'end', but for multiples of 3, 'Fizz' is returned, for multiples of 5, 'Buzz' is returned, and for multiples of both 3 and 5, 'FizzBuzz' is returned.",
+  "45": "Write a function 'sum67' that calculates the sum of the numbers in an integer array 'nums', except that numbers between '6' and '7' inclusive are ignored.",
+  "51": "Develop a function 'tenRun' that replaces each element in the array 'nums' that is a multiple of 10 with the next non-multiple of 10 value in the array.",
+  "48": "Create a function 'withoutTen' that returns a version of the given array 'nums' where all the '10's have been removed and the remaining elements are shifted left to fill the emptied positions.",
+  "118": "Write a function 'shiftLeft' that shifts all elements in the array 'nums' one position to the left and moves the first element to the last position.",
+  "57": "Develop a function 'fizzArray' that generates an array containing the numbers from '0' to 'n - 1'.",
+  "71": "Create a function 'canBalance' that returns 'true' if there is a point in the array 'nums' where the sum of the numbers on one side is equal to the sum of the numbers on the other side.",
+  "112": "Write a function 'seriesUp' that generates a sequence of numbers from '1' up to 'n' arranged in increasing order.",
+  "70": "Develop a function 'twoTwo' that returns 'true' if every '2' in the array 'nums' has another '2' somewhere later in the array."
+}

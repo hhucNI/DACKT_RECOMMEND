@@ -1,0 +1,12 @@
+{
+  "106": "Develop a function 'sameEnds' that checks if the first 'n' elements in an array 'nums' are the same as the last 'n' elements.",
+  "43": "Create a function 'frontPiece' that returns the first two elements of an integer array 'nums'. If 'nums' has less than two elements, return the whole array.",
+  "41": "Write a function 'sum3' that computes the sum of the first three elements in an integer array 'nums'.",
+  "104": "Develop a function 'zeroMax' that replaces every '0' in an integer array 'nums' with the largest odd number to the right of that '0'.",
+  "67": "Create a function 'has77' that returns 'true' if the integer array 'nums' contains either '7 7' or '7 _ 7' pattern.",
+  "107": "Write a function 'countClumps' that counts the number of 'clumps' in an integer array 'nums', where a 'clump' is a series of two or more adjacent elements of the same value.",
+  "108": "Develop a function 'fix45' that rearranges an integer array 'nums' so that every '4' is followed by a '5'.",
+  "49": "Create a function 'sum13' that calculates the sum of the numbers in an integer array 'nums', ignoring elements immediately following a '13'.",
+  "44": "Write a function 'countEvens' that counts the number of even integers in an integer array 'nums'.",
+  "46": "Develop a function 'isEverywhere' that checks if a specific value 'val' is everywhere in an integer array 'nums'."
+}
