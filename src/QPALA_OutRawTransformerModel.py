@@ -282,7 +282,7 @@ class KC_Attention_LSTM(nn.Module):
         attended_out[:, 0, :] = lstm_out[:, 0, :]  # 第一个时间步无法attn，故为1
         # ------------------------------------------------------------------------
         # attn关注之前的问题特征，感觉会更好  更新是在attend out后面又加了onehot
-        # 这个有时间衰减
+        # 加入有时间衰减
         # ------------------------------------------------------------------------
         for i in range(1, cfg.length - 1):
             partial_ques_feature = torch.cat((bert_vec[:, :i + 1, :], kc_part[:, :i + 1, :],ia_code_vectors[:, :i + 1, :]), dim=2)
